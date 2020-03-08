@@ -1,0 +1,22 @@
+.top-box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  h2{
+    font-size: 24px;
+    color: blue;
+    font-weight: bold;
+    margin: 20px 0;
+  }
+  .btn-load-all{
+    background-color: blue;
+    color: #fff;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 4px;
+    font-size: 14px;
+    font-weight: bold;
+  }
+}
